@@ -1,0 +1,105 @@
+.group-16 .our-curriculum {
+  margin: 0 34px 75px 34px;
+  display: inline-block;
+  align-self: flex-end;
+  overflow-wrap: break-word;
+  font-family: 'IBM Plex Serif';
+  font-weight: 700;
+  font-size: 40px;
+  background: linear-gradient(90deg, #FF4C00, #FF0505);
+  color: transparent;
+  background-clip: text;
+  -webkit-background-clip: text;
+}
+.group-16 .discover-the-power-of-our-transformative-programs {
+  margin-bottom: 11px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'IBM Plex Serif';
+  font-weight: 600;
+  font-size: 36px;
+  color: #FFFFFF;
+}
+.group-16 .at-brave-sparkids-academy-we-believe-in-nurturing-the-whole-child-fostering-not-just-academic-success-but-also-critical-thinking-problem-solving {
+  margin-bottom: 33px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'IBM Plex Serif';
+  font-weight: 400;
+  font-size: 18px;
+  color: #000000;
+}
+.group-16 .enroll-now {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 18px;
+  color: #D9D9D9;
+}
+.group-16 .group-6 {
+  border-radius: 10px;
+  background: #F66D0A;
+  position: relative;
+  margin-right: 44px;
+  display: flex;
+  padding: 20px 3.5px 19.7px 0;
+  width: 179px;
+  box-sizing: border-box;
+}
+.group-16 .testimonials {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 18px;
+  color: #000000;
+}
+.group-16 .group-15 {
+  border-radius: 10px;
+  background: #D9D9D9;
+  position: relative;
+  display: flex;
+  padding: 20px 0.6px 19.7px 0;
+  width: 179px;
+  box-sizing: border-box;
+}
+.group-16 .container {
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: 402px;
+  box-sizing: border-box;
+}
+.group-16 .container-1 {
+  margin: 38px 133.2px 202.3px 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.group-16 .our-curriculum-is-acarefully-curated-blend-of-traditional-and-cutting-edge-educational-methodologiesdesigned-to-stimulate-cognitive-developmentenhance-problem-solving-skills-and-cultivate-adeep-appreciation-for-learning {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 18px;
+  color: #D9D9D9;
+}
+.group-16 .group-14 {
+  background: url('assets/images/LetsGoWithCrazy41.png') 50% / cover no-repeat;
+  position: relative;
+  padding: 306px 21px 245px 21px;
+  width: 625px;
+  box-sizing: border-box;
+}
+.group-16 .curriculum {
+  background: #918FA7;
+  display: flex;
+  flex-direction: row;
+  width: 1440px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.group-16 {
+  display: flex;
+  width: 1440px;
+  box-sizing: border-box;
+}

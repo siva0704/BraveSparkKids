@@ -1,0 +1,77 @@
+.group-10 .lets-go-with-crazy-11 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 0 100px 0 0;
+  border: 1px solid #000000;
+  background: url('assets/images/LetsGoWithCrazy11.png') 50% / cover no-repeat;
+  margin: 0 13px 19.7px 0;
+  height: 398px;
+  flex-grow: 1;
+  flex-basis: 200px;
+}
+.group-10 .brave {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'IBM Plex Serif';
+  font-weight: 600;
+  font-size: 60px;
+  color: #000000;
+}
+.group-10 .comprehensive-brain-and-skill {
+  margin: 0 26.8px 3px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'IBM Plex Serif';
+  font-weight: 600;
+  font-size: 40px;
+  color: #FF0505;
+}
+.group-10 .explore-our {
+  margin: 0 0 3px 3px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'IBM Plex Serif';
+  font-weight: 600;
+  font-size: 60px;
+  color: #000000;
+}
+.group-10 .brave-sparkids-academy-is-aleading-institution-dedicated-to-nurturing {
+  margin: 0 16.1px 30px 9px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'IBM Plex Serif';
+  font-weight: 600;
+  font-size: 18px;
+  color: #000000;
+}
+.group-10 .enroll-now {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 18px;
+  color: #D9D9D9;
+}
+.group-10 .group-5 {
+  border-radius: 68px;
+  background: #2007FF;
+  position: relative;
+  margin: 0 3px;
+  display: flex;
+  align-self: flex-start;
+  padding: 20px 3.5px 19.7px 0;
+  width: 179px;
+  box-sizing: border-box;
+}
+.group-10 .container {
+  margin-top: 14px;
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+  flex-basis: 356.1px;
+  box-sizing: border-box;
+}
+.group-10 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  box-sizing: border-box;
+}

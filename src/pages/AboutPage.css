@@ -1,0 +1,181 @@
+.about-page .ellipse-1 {
+  position: absolute;
+  left: 263px;
+  top: 214px;
+  width: 279px;
+  height: 190px;
+}
+.about-page .ellipse-2 {
+  position: absolute;
+  left: 50%;
+  top: 214px;
+  translate: -50% 0;
+  width: 321px;
+  height: 190px;
+}
+.about-page .ellipse-3 {
+  position: absolute;
+  top: 214px;
+  right: 262px;
+  width: 279px;
+  height: 190px;
+}
+.about-page .about-us {
+  position: relative;
+  margin: 0 6.2px 9px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'IBM Plex Serif';
+  font-weight: 600;
+  font-size: 40px;
+  background: linear-gradient(90deg, #FF0505, #040943);
+  color: transparent;
+  background-clip: text;
+  -webkit-background-clip: text;
+}
+.about-page .at-brave-sparkids-academy-we-believe-in-unlocking-the-limitless {
+  position: relative;
+  margin: 0 7.8px 40px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Source Code Pro';
+  font-weight: 400;
+  font-size: 18px;
+  color: #000000;
+}
+.about-page .download-3-removebg-preview-1 {
+  background: url('assets/images/Download3RemovebgPreview1.png') 50% / cover no-repeat;
+  margin-bottom: 9px;
+  width: 130px;
+  height: 116px;
+}
+.about-page .superior-icon-instructor-removebg-preview-1 {
+  background: url('assets/images/SuperiorIconInstructorRemovebgPreview1.png') 50% / cover no-repeat;
+  margin-top: 34px;
+  width: 103px;
+  height: 91px;
+}
+.about-page .download-4-removebg-preview-1 {
+  background: url('assets/images/Download4RemovebgPreview1.png') 50% / cover no-repeat;
+  margin: 25px 0 9px 0;
+  width: 108px;
+  height: 91px;
+}
+.about-page .container {
+  position: relative;
+  margin: 0 28px 4px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 617px;
+  box-sizing: border-box;
+}
+.about-page .our-courses-including-abacus-vedic-maths {
+  margin: 0 34.5px 23px 0;
+  display: inline-block;
+  width: 157px;
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'IBM Plex Serif';
+  font-weight: 600;
+  font-size: 18px;
+  color: #FFFFFF;
+}
+.about-page .experienced-instructors-our-team-of-dedicated-and-highly-skilled {
+  margin: 5px 77.8px 18px 0;
+  display: inline-block;
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'IBM Plex Serif';
+  font-weight: 600;
+  font-size: 18px;
+  color: #FFFFFF;
+}
+.about-page .cutting-edge-curriculum-we-constantly-innovate-our-curriculum-to-stay-ahead {
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'IBM Plex Serif';
+  font-weight: 600;
+  font-size: 18px;
+  color: #FFFFFF;
+}
+.about-page .container-1 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.about-page .container-2 {
+  position: relative;
+  margin: 0 0 44px 23.8px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 851.1px;
+  box-sizing: border-box;
+}
+.about-page .learning-abacus-for-student-1 {
+  background: url('assets/images/LearningAbacusForStudent1.png') 50% / cover no-repeat;
+  margin-right: 32px;
+  width: 335px;
+  height: 391px;
+}
+.about-page .images-4-removebg-preview-1 {
+  background: url('assets/images/Images4RemovebgPreview1.png') 50% / cover no-repeat;
+  position: absolute;
+  left: 0px;
+  bottom: 0px;
+  width: 125px;
+  height: 105px;
+}
+.about-page .new-yorks-top {
+  position: relative;
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'IBM Plex Serif';
+  font-weight: 600;
+  font-size: 22px;
+  color: #FF4C00;
+}
+.about-page .group-11 {
+  position: relative;
+  margin-right: 47.5px;
+  display: flex;
+  padding: 24px 0 23px 0;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.about-page .brave-sparkids-academy-is-the-premier-destination-for-parents-seeking-to-unlock-the-full-potential-of-their-children-with-awide-range-of-innovative-programs-our-institution-has-established-itself-as-aleading-provider-of-comprehensive-brain-and-skill-development {
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'IBM Plex Serif';
+  font-weight: 600;
+  font-size: 18px;
+  color: #000000;
+}
+.about-page .container-3 {
+  background: #D2BCBC;
+  position: relative;
+  margin: 69px 0 68px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 22px 8px 35px 10px;
+  width: 666px;
+  box-sizing: border-box;
+}
+.about-page .group-12 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.about-page {
+  background: #BBD4E5;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 56px 0 53px 0;
+  width: 1440px;
+  box-sizing: border-box;
+}
