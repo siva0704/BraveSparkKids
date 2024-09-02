@@ -1,7 +1,7 @@
 const tableHeaderStyle = {
   backgroundColor: "#f2f2f2",
   padding: 8,
-  border: "1px solid #ddd",
+  border: "1px solid #dddd",
 }
 
 const tableCellStyle = {
